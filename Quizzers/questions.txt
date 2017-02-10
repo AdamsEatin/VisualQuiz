@@ -1,0 +1,69 @@
+What is the capital of England?
+Manchester
+Birmingham
+London
+Newcastle
+C
+
+What is the capital of Canada?
+Toronto
+Ottawa
+Vancouver
+Montreal
+B
+
+What is the capital of Belgium?
+Brussels
+Bruges
+Antwerp
+Ghent
+A
+
+What is the capital of Ukraine?
+Odessa
+Lviv
+Kiev
+Kharkiv
+C
+
+What is the capital of Poland?
+Warsaw
+Krakow
+Gdansk
+Lodz
+A
+
+What is the capital of Netherlands?
+Rotterdam
+The Hague
+Amsterdam
+Utrecht
+C
+
+What is the capital of Australia?
+Sydney
+Melbourne
+Canberra
+Perth
+C
+
+What is the capital of Italy?
+Rome
+Venice
+Florence
+Naples
+A
+
+What is the capital of China?
+Shanghai
+Beijing
+Shenzhen
+Guangzhou
+B
+
+What is the capital of Norway?
+Bergen
+Trondheim
+Drammen
+Oslo
+D
